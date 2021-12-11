@@ -23,16 +23,16 @@
 此為產生臨時NPC名字的文件，臨時產生的名字會被儲存在textNameTemporary.json裡，英文不需要此文件
 
 ### textMap.json
-此為地圖名字的文件，textMap、textName、textOther讀取後會合併成一個陣列
+此為地圖名字的文件，textMap、textName、textNameTemporary、textOther讀取後會合併成一個陣列
 
 ### textName.json
-此為NPC名字和專有名詞的文件，textMap、textName、textOther讀取後會合併成一個陣列
+此為NPC名字和專有名詞的文件，textMap、textName、textNameTemporary、textOther讀取後會合併成一個陣列
 
 ### textNameTemporary.json
-此為用來儲存尚未分類的臨時名字
+此為用來儲存尚未分類的臨時名字，textMap、textName、textNameTemporary、textOther讀取後會合併成一個陣列
 
 ### textOther.json
-此為其他名字的文件，textMap、textName、textOther讀取後會合併成一個陣列
+此為其他名字的文件，textMap、textName、textNameTemporary、textOther讀取後會合併成一個陣列
 
 ### textAfterTranslated.json
 此為翻譯後最後修飾用的文件，也可以用來校正翻譯機不會翻譯的詞彙

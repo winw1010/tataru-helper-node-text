@@ -36,7 +36,7 @@
 * 格式：["取代前","取代後"]
 
 ### textName.json
-此為NPC名字和專有名詞的文件  
+此為NPC名字和相關事物的文件  
 * 格式：["取代前","取代後"]
 
 ### textNameTemporary.json
@@ -44,7 +44,7 @@
 * 格式：["取代前","取代後"]
 
 ### textOther.json
-此為其他專有名字的文件  
+此為通用名詞的文件  
 * 格式：["取代前","取代後"]
 
 ### textAfterTranslated.json

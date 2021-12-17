@@ -825,5 +825,20 @@
 
     ["Absolute Teleport", "絕對傳送"],
 
+    ["//comment", "------------------イベント：降神祭"],
+    ["Heavensturn", "降神祭"],
+    
+    ["//comment", "------------------イベント：紅蓮祭"],
+    ["Moonfire Faire", "紅蓮祭"],
+
+    ["//comment", "------------------イベント：星芒祭"],
+    ["Starlight Celebration", "星芒祭"],
+    ["Starlight season", "星芒祭"],
+    ["Starlight", "星芒祭"],
+
+    ["//comment", "------------------イベント：新生祭"],
+    ["The Rising", "新生祭"],
+    ["the Rising", "新生祭"],
+
     ["//comment", "DOCUMENT END"]
 ]

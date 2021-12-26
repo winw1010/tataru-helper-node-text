@@ -44,13 +44,13 @@
     ["Hrothgar", "硌狮族"],
 
     ["//comment", "---------種族(人：第一世界)---------"],
-    ["Hume", "尘族"],
-    ["Elven", "菁灵族"],
+    ["//comment Hume", "尘族"],
+    ["//comment Elven", "菁灵族"],
     ["Mystel", "猫秘族"],
-    ["Dwarf", "矮人族"],
+    ["//comment Dwarf", "矮人族"],
     ["Galdjent", "迦震族"],
     ["Drahn", "朵龙族"],
-    ["Viis", "维斯族"],
+    ["//comment Viis", "维斯族"],
     ["Ronso", "隆索族"],
 
     ["//comment", "---------種族(蛮族：原初世界)---------"],

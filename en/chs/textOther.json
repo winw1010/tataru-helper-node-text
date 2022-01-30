@@ -155,6 +155,7 @@
     ["falcon porter", "大隼房"],
     ["FATEs", "危命任务"],
     ["aether current", "风脉泉"],
+    ["myrmidon meat", "灵蚁肉"],
     
     ["//comment", "---------過場校正(翻譯引擎無法正確翻譯的句子)---------"],
     ["Hear... Feel... Think...", "倾听……感受……思考……"],
@@ -210,6 +211,7 @@
     ["deepglider", "宽翼飘龙"],
     ["flowering witchweed", "怒放独脚金"],
     ["witchweed", "独脚金"],
-    
+    ["chimera", "奇美拉"],
+        
     ["//comment", "DOCUMENT END"]
 ]
